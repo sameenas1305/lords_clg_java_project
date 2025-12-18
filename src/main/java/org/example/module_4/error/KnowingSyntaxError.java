@@ -1,4 +1,4 @@
-package org.example.module_4;
+package org.example.module_4.error;
 
 public class KnowingSyntaxError {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package org.example.module_4;
+package org.example.module_4.error;
 
 public class KnowingRuntimeError {
     public static void main(String[] args){
