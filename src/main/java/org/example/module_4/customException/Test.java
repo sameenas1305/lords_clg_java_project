@@ -1,4 +1,4 @@
-package org.example.module_4.exceptionHandling.customException;
+package org.example.module_4.customException;
 
 import java.util.Scanner;
 
