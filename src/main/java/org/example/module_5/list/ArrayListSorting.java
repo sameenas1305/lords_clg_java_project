@@ -16,7 +16,9 @@ public class ArrayListSorting {
         Collections.sort(obj.myArr1);
         obj.printArray();
 
-
+        System.out.println("sorted array list in reverse");
+        Collections.sort(obj.myArr1,Collections.reverseOrder());
+        obj.printArray();
 
 
     }
