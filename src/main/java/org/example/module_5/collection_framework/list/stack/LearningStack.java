@@ -1,4 +1,4 @@
-package org.example.module_5.list.stack;
+package org.example.module_5.collection_framework.list.stack;
 
 import java.util.Arrays;
 import java.util.Stack;

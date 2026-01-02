@@ -1,4 +1,4 @@
-package org.example.module_5.list.arraylist.questions;
+package org.example.module_5.collection_framework.list.arraylist.questions;
 
 import java.util.ArrayList;
 import java.util.Collections;

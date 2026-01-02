@@ -1,4 +1,4 @@
-package org.example.module_5.list.linkedlist.questions;
+package org.example.module_5.collection_framework.list.linkedlist.questions;
 
 import java.util.Arrays;
 import java.util.LinkedList;

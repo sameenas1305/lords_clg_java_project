@@ -1,6 +1,6 @@
-package org.example.module_5.list.linkedlist.questions;
+package org.example.module_5.collection_framework.list.linkedlist.questions;
 
-import org.example.module_5.list.linkedlist.LinkedListSpecificMethods;
+import org.example.module_5.collection_framework.list.linkedlist.LinkedListSpecificMethods;
 
 import java.util.Arrays;
 import java.util.LinkedList;

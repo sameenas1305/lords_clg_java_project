@@ -1,4 +1,4 @@
-package org.example.module_5.list.linkedlist;
+package org.example.module_5.collection_framework.list.linkedlist;
 
 import java.util.Iterator;
 import java.util.LinkedList;

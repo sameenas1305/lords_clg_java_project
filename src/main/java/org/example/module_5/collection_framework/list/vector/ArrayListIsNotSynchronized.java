@@ -1,4 +1,4 @@
-package org.example.module_5.list.vector;
+package org.example.module_5.collection_framework.list.vector;
 
 import java.util.ArrayList;
 
